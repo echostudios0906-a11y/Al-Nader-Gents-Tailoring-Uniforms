@@ -1,0 +1,7 @@
+{
+  "name": "Al Nader Gents Tailoring & Uniforms",
+  "description": "Official commercial tailoring, sportswear, and enterprise uniform manufacturer portal for Al Nader Gents Tailoring L.L.C based in Ajman Industrial 2, UAE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
